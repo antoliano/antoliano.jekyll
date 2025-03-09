@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "SE in on"
+date:   2025-03-01 13:11:22 -0400
+categories: jekyll update
+---
+# Welcome to My First Post
+
+This is an example of a basic Jekyll post written in Markdown.
+
+## Subheading
+
+Here's a list of things you can do with Jekyll:
+- Create blog posts.
+- Use Markdown for formatting.
+- Customize layouts and themes.
+
+### Code Example
+
+```markdown
+Here's how you can write inline code: `print("Hello, Jekyll!")`.

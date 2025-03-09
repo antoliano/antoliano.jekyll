@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Ending"
+date:   2025-03-08 09:19:35 -0400
+categories: jekyll update
+---
+
+# Creating Lists
+
+You can create ordered and unordered lists in Markdown.
+
+## Unordered List
+
+- Item 1
+- Item 2
+  - Subitem 2.1
+  - Subitem 2.2
+- Item 3
+
+## Ordered List
+
+1. First item
+2. Second item
+3. Third item
+
+---
+
+Lists help organize information clearly!

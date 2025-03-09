@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-03-09T13:19:32-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">First Page for DevSecOps training course</title><subtitle>Example of page in Jekyll to cover the requisites of DevSecOps training course of Coursera.</subtitle><entry><title type="html">Ending</title><link href="http://localhost:4000/jekyll/update/2025/03/08/ending.html" rel="alternate" type="text/html" title="Ending" /><published>2025-03-08T08:19:35-05:00</published><updated>2025-03-08T08:19:35-05:00</updated><id>http://localhost:4000/jekyll/update/2025/03/08/ending</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/03/08/ending.html"><![CDATA[<h1 id="creating-lists">Creating Lists</h1>
+
+<p>You can create ordered and unordered lists in Markdown.</p>
+
+<h2 id="unordered-list">Unordered List</h2>
+
+<ul>
+  <li>Item 1</li>
+  <li>Item 2
+    <ul>
+      <li>Subitem 2.1</li>
+      <li>Subitem 2.2</li>
+    </ul>
+  </li>
+  <li>Item 3</li>
+</ul>
+
+<h2 id="ordered-list">Ordered List</h2>
+
+<ol>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+</ol>
+
+<hr />
+
+<p>Lists help organize information clearly!</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Creating Lists]]></summary></entry><entry><title type="html">Making things</title><link href="http://localhost:4000/jekyll/update/2025/03/07/making-things.html" rel="alternate" type="text/html" title="Making things" /><published>2025-03-07T09:23:23-05:00</published><updated>2025-03-07T09:23:23-05:00</updated><id>http://localhost:4000/jekyll/update/2025/03/07/making-things</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/03/07/making-things.html"><![CDATA[<h2 id="markdown">```markdown</h2>
+<p>layout: post
+title: “Using Tables in Jekyll”
+date: 2023-10-10
+categories: jekyll markdown
+—</p>
+
+<h1 id="adding-tables-to-your-posts">Adding Tables to Your Posts</h1>
+
+<p>You can create tables in Markdown like this:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Column 1</th>
+      <th>Column 2</th>
+      <th>Column 3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Row 1</td>
+      <td>Data 1</td>
+      <td>Data 2</td>
+    </tr>
+    <tr>
+      <td>Row 2</td>
+      <td>Data 3</td>
+      <td>Data 4</td>
+    </tr>
+    <tr>
+      <td>Row 3</td>
+      <td>Data 5</td>
+      <td>Data 6</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<p>Tables are great for organizing data!</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[```markdown layout: post title: “Using Tables in Jekyll” date: 2023-10-10 categories: jekyll markdown —]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2025/03/07/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2025-03-07T06:02:55-05:00</published><updated>2025-03-07T06:02:55-05:00</updated><id>http://localhost:4000/jekyll/update/2025/03/07/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/03/07/welcome-to-jekyll.html"><![CDATA[<h1>Welcome to My HTML Post</h1>
+
+<p>This is an example of a Jekyll post written in HTML.</p>
+
+<h2>Why Use HTML?</h2>
+
+<p>HTML gives you more control over the structure and styling of your content.</p>
+
+<ul>
+  <li>Use <code>&lt;div&gt;</code> tags for layout.</li>
+  <li>Embed videos or iframes.</li>
+  <li>Add custom styles inline.</li>
+</ul>
+
+<blockquote>
+  <p>HTML is powerful and flexible!</p>
+</blockquote>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Welcome to My HTML Post]]></summary></entry><entry><title type="html">Interesting things</title><link href="http://localhost:4000/jekyll/update/2025/03/03/interesting.html" rel="alternate" type="text/html" title="Interesting things" /><published>2025-03-03T20:19:18-05:00</published><updated>2025-03-03T20:19:18-05:00</updated><id>http://localhost:4000/jekyll/update/2025/03/03/interesting</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/03/03/interesting.html"><![CDATA[<h1 id="custom-variables-in-jekyll">Custom Variables in Jekyll</h1>
+
+<p>You can use custom variables in your YAML front matter and reference them in your post.</p>
+
+<h2 id="author-information">Author Information</h2>
+
+<p>This post was written by <em>**</em>.</p>
+
+<h2 id="custom-data">Custom Data</h2>
+
+<p>You can even add custom data like this:</p>
+
+<ul>
+  <li><strong>Tags</strong>: jekyll, blogging, tutorials</li>
+  <li><strong>Difficulty Level</strong>: Intermediate</li>
+</ul>
+
+<hr />
+
+<p>Experiment with custom variables to make your posts more dynamic!</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Custom Variables in Jekyll]]></summary></entry><entry><title type="html">SecDevOps page</title><link href="http://localhost:4000/jekyll/update/2025/03/02/secdevops.html" rel="alternate" type="text/html" title="SecDevOps page" /><published>2025-03-02T10:11:55-05:00</published><updated>2025-03-02T10:11:55-05:00</updated><id>http://localhost:4000/jekyll/update/2025/03/02/secdevops</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/03/02/secdevops.html"><![CDATA[<h1 id="adding-images-to-your-posts">Adding Images to Your Posts</h1>
+
+<p>You can easily add images to your Jekyll posts. Here’s how:</p>
+
+<h2 id="method-1-relative-path">Method 1: Relative Path</h2>
+
+<p>Store your images in the <code class="language-plaintext highlighter-rouge">assets</code> or <code class="language-plaintext highlighter-rouge">images</code> folder and reference them like this:</p>
+
+<p><img src="/assets/my-image.jpg" alt="My Image" /></p>
+
+<h2 id="method-2-external-url">Method 2: External URL</h2>
+
+<p>You can also use images hosted online:</p>
+
+<p><img src="https://example.com/path/to/image.jpg" alt="External Image" /></p>
+
+<hr />
+
+<p>Enjoy adding visuals to your posts!</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Adding Images to Your Posts]]></summary></entry><entry><title type="html">SE in on</title><link href="http://localhost:4000/jekyll/update/2025/03/01/se-page.html" rel="alternate" type="text/html" title="SE in on" /><published>2025-03-01T12:11:22-05:00</published><updated>2025-03-01T12:11:22-05:00</updated><id>http://localhost:4000/jekyll/update/2025/03/01/se-page</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/03/01/se-page.html"><![CDATA[<h1 id="welcome-to-my-first-post">Welcome to My First Post</h1>
+
+<p>This is an example of a basic Jekyll post written in Markdown.</p>
+
+<h2 id="subheading">Subheading</h2>
+
+<p>Here’s a list of things you can do with Jekyll:</p>
+<ul>
+  <li>Create blog posts.</li>
+  <li>Use Markdown for formatting.</li>
+  <li>Customize layouts and themes.</li>
+</ul>
+
+<h3 id="code-example">Code Example</h3>
+
+<p>```markdown
+Here’s how you can write inline code: <code class="language-plaintext highlighter-rouge">print("Hello, Jekyll!")</code>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Welcome to My First Post]]></summary></entry></feed>
